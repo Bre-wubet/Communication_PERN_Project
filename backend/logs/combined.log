@@ -1,0 +1,144 @@
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T06:03:08.192Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T06:03:08.197Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T06:03:08.198Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T06:03:08.199Z"}
+{"level":"error","message":"Database connection failed: @prisma/client did not initialize yet. Please run \"prisma generate\" and try to import it again.","stack":"Error: @prisma/client did not initialize yet. Please run \"prisma generate\" and try to import it again.\n    at new PrismaClient (D:\\My-Projects\\communication\\backend\\node_modules\\.prisma\\client\\default.js:43:11)\n    at DatabaseConfig.connect (file:///D:/My-Projects/communication/backend/src/config/db.js:11:21)\n    at App.start (file:///D:/My-Projects/communication/backend/src/app.js:169:24)\n    at file:///D:/My-Projects/communication/backend/src/server.js:55:5\n    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)","timestamp":"2025-09-18T06:03:08.200Z"}
+{"level":"warn","message":"Database connection failed, starting server without database:","timestamp":"2025-09-18T06:03:08.201Z"}
+{"level":"warn","message":"Some features may not work properly without a database connection","timestamp":"2025-09-18T06:03:08.201Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T06:03:08.208Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:03:08.209Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:03:08.211Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:03:08.211Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T06:03:31.004Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T06:03:31.009Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T06:03:31.010Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T06:03:31.011Z"}
+{"level":"error","message":"Database connection failed: @prisma/client did not initialize yet. Please run \"prisma generate\" and try to import it again.","stack":"Error: @prisma/client did not initialize yet. Please run \"prisma generate\" and try to import it again.\n    at new PrismaClient (D:\\My-Projects\\communication\\backend\\node_modules\\.prisma\\client\\default.js:43:11)\n    at DatabaseConfig.connect (file:///D:/My-Projects/communication/backend/src/config/db.js:11:21)\n    at App.start (file:///D:/My-Projects/communication/backend/src/app.js:169:24)\n    at file:///D:/My-Projects/communication/backend/src/server.js:55:5\n    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)","timestamp":"2025-09-18T06:03:31.012Z"}
+{"level":"warn","message":"Database connection failed, starting server without database:","timestamp":"2025-09-18T06:03:31.013Z"}
+{"level":"warn","message":"Some features may not work properly without a database connection","timestamp":"2025-09-18T06:03:31.014Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T06:03:31.018Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:03:31.019Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:03:31.020Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:03:31.020Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T06:03:59.257Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T06:03:59.262Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T06:03:59.263Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T06:03:59.264Z"}
+{"level":"error","message":"Database connection failed: @prisma/client did not initialize yet. Please run \"prisma generate\" and try to import it again.","stack":"Error: @prisma/client did not initialize yet. Please run \"prisma generate\" and try to import it again.\n    at new PrismaClient (D:\\My-Projects\\communication\\backend\\node_modules\\.prisma\\client\\default.js:43:11)\n    at DatabaseConfig.connect (file:///D:/My-Projects/communication/backend/src/config/db.js:11:21)\n    at App.start (file:///D:/My-Projects/communication/backend/src/app.js:169:24)\n    at file:///D:/My-Projects/communication/backend/src/server.js:55:5\n    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)","timestamp":"2025-09-18T06:03:59.266Z"}
+{"level":"warn","message":"Database connection failed, starting server without database:","timestamp":"2025-09-18T06:03:59.268Z"}
+{"level":"warn","message":"Some features may not work properly without a database connection","timestamp":"2025-09-18T06:03:59.269Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T06:03:59.278Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:03:59.279Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:03:59.280Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:03:59.280Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T06:04:01.848Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T06:04:01.853Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T06:04:01.853Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T06:04:01.854Z"}
+{"level":"error","message":"Database connection failed: @prisma/client did not initialize yet. Please run \"prisma generate\" and try to import it again.","stack":"Error: @prisma/client did not initialize yet. Please run \"prisma generate\" and try to import it again.\n    at new PrismaClient (D:\\My-Projects\\communication\\backend\\node_modules\\.prisma\\client\\default.js:43:11)\n    at DatabaseConfig.connect (file:///D:/My-Projects/communication/backend/src/config/db.js:11:21)\n    at App.start (file:///D:/My-Projects/communication/backend/src/app.js:169:24)\n    at file:///D:/My-Projects/communication/backend/src/server.js:55:5\n    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)","timestamp":"2025-09-18T06:04:01.855Z"}
+{"level":"warn","message":"Database connection failed, starting server without database:","timestamp":"2025-09-18T06:04:01.856Z"}
+{"level":"warn","message":"Some features may not work properly without a database connection","timestamp":"2025-09-18T06:04:01.857Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T06:04:01.862Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:04:01.862Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:04:01.863Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:04:01.863Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T06:04:05.595Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T06:04:05.600Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T06:04:05.601Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T06:04:05.602Z"}
+{"level":"error","message":"Database connection failed: @prisma/client did not initialize yet. Please run \"prisma generate\" and try to import it again.","stack":"Error: @prisma/client did not initialize yet. Please run \"prisma generate\" and try to import it again.\n    at new PrismaClient (D:\\My-Projects\\communication\\backend\\node_modules\\.prisma\\client\\default.js:43:11)\n    at DatabaseConfig.connect (file:///D:/My-Projects/communication/backend/src/config/db.js:11:21)\n    at App.start (file:///D:/My-Projects/communication/backend/src/app.js:169:24)\n    at file:///D:/My-Projects/communication/backend/src/server.js:55:5\n    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)","timestamp":"2025-09-18T06:04:05.603Z"}
+{"level":"warn","message":"Database connection failed, starting server without database:","timestamp":"2025-09-18T06:04:05.605Z"}
+{"level":"warn","message":"Some features may not work properly without a database connection","timestamp":"2025-09-18T06:04:05.605Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T06:04:05.612Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:04:05.613Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:04:05.614Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:04:05.614Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T06:06:05.993Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T06:06:05.998Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T06:06:05.999Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T06:06:05.999Z"}
+{"level":"error","message":"Database connection failed: @prisma/client did not initialize yet. Please run \"prisma generate\" and try to import it again.","stack":"Error: @prisma/client did not initialize yet. Please run \"prisma generate\" and try to import it again.\n    at new PrismaClient (D:\\My-Projects\\communication\\backend\\node_modules\\.prisma\\client\\default.js:43:11)\n    at DatabaseConfig.connect (file:///D:/My-Projects/communication/backend/src/config/db.js:11:21)\n    at App.start (file:///D:/My-Projects/communication/backend/src/app.js:169:24)\n    at file:///D:/My-Projects/communication/backend/src/server.js:55:5\n    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)","timestamp":"2025-09-18T06:06:06.000Z"}
+{"level":"warn","message":"Database connection failed, starting server without database:","timestamp":"2025-09-18T06:06:06.002Z"}
+{"level":"warn","message":"Some features may not work properly without a database connection","timestamp":"2025-09-18T06:06:06.003Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T06:06:06.013Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:06:06.014Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:06:06.015Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:06:06.015Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T06:19:24.786Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T06:19:24.794Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T06:19:24.795Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T06:19:24.797Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T06:19:25.011Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T06:19:25.020Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:19:25.021Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:19:25.022Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:19:25.023Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T06:19:31.451Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T06:19:31.457Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T06:19:31.459Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T06:19:31.460Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T06:19:31.573Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T06:19:31.579Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:19:31.580Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:19:31.582Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:19:31.583Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T06:20:00.019Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T06:20:00.023Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T06:20:00.023Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T06:20:00.024Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T06:20:00.100Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T06:20:00.103Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:20:00.103Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:20:00.104Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:20:00.104Z"}
+{"error":"Cannot set property query of #<IncomingMessage> which has only a getter","ip":"::1","level":"error","message":"Cannot set property query of #<IncomingMessage> which has only a getter","method":"GET","stack":"TypeError: Cannot set property query of #<IncomingMessage> which has only a getter\n    at sanitizeInput (file:///D:/My-Projects/communication/backend/src/middlewares/validationMiddleware.js:112:15)\n    at Layer.handleRequest (D:\\My-Projects\\communication\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:342:13)\n    at D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:297:9\n    at processParams (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:582:12)\n    at next (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:291:5)\n    at file:///D:/My-Projects/communication/backend/node_modules/express-rate-limit/dist/index.mjs:870:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async file:///D:/My-Projects/communication/backend/node_modules/express-rate-limit/dist/index.mjs:753:5","timestamp":"2025-09-18T06:20:42.479Z","url":"/health","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"error","message":"Error occurred: Cannot set property query of #<IncomingMessage> which has only a getter","method":"GET","stack":"TypeError: Cannot set property query of #<IncomingMessage> which has only a getter\n    at sanitizeInput (file:///D:/My-Projects/communication/backend/src/middlewares/validationMiddleware.js:112:15)\n    at Layer.handleRequest (D:\\My-Projects\\communication\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:342:13)\n    at D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:297:9\n    at processParams (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:582:12)\n    at next (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:291:5)\n    at file:///D:/My-Projects/communication/backend/node_modules/express-rate-limit/dist/index.mjs:870:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async file:///D:/My-Projects/communication/backend/node_modules/express-rate-limit/dist/index.mjs:753:5","timestamp":"2025-09-18T06:20:42.481Z","url":"/health","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"http","message":"::1 - - [18/Sep/2025:06:20:42 +0000] \"GET /health HTTP/1.1\" 500 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-18T06:20:42.503Z"}
+{"duration":"44ms","ip":"::1","level":"http","message":"GET /health 500 - 44ms","method":"GET","status":500,"timestamp":"2025-09-18T06:20:42.504Z","url":"/health","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"error":"Cannot set property query of #<IncomingMessage> which has only a getter","ip":"::1","level":"error","message":"Cannot set property query of #<IncomingMessage> which has only a getter","method":"GET","stack":"TypeError: Cannot set property query of #<IncomingMessage> which has only a getter\n    at sanitizeInput (file:///D:/My-Projects/communication/backend/src/middlewares/validationMiddleware.js:112:15)\n    at Layer.handleRequest (D:\\My-Projects\\communication\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:342:13)\n    at D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:297:9\n    at processParams (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:582:12)\n    at next (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:291:5)\n    at file:///D:/My-Projects/communication/backend/node_modules/express-rate-limit/dist/index.mjs:870:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async file:///D:/My-Projects/communication/backend/node_modules/express-rate-limit/dist/index.mjs:753:5","timestamp":"2025-09-18T06:20:42.610Z","url":"/favicon.ico","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"error","message":"Error occurred: Cannot set property query of #<IncomingMessage> which has only a getter","method":"GET","stack":"TypeError: Cannot set property query of #<IncomingMessage> which has only a getter\n    at sanitizeInput (file:///D:/My-Projects/communication/backend/src/middlewares/validationMiddleware.js:112:15)\n    at Layer.handleRequest (D:\\My-Projects\\communication\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:342:13)\n    at D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:297:9\n    at processParams (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:582:12)\n    at next (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:291:5)\n    at file:///D:/My-Projects/communication/backend/node_modules/express-rate-limit/dist/index.mjs:870:7\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async file:///D:/My-Projects/communication/backend/node_modules/express-rate-limit/dist/index.mjs:753:5","timestamp":"2025-09-18T06:20:42.611Z","url":"/favicon.ico","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"http","message":"::1 - - [18/Sep/2025:06:20:42 +0000] \"GET /favicon.ico HTTP/1.1\" 500 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-18T06:20:42.613Z"}
+{"duration":"5ms","ip":"::1","level":"http","message":"GET /favicon.ico 500 - 5ms","method":"GET","status":500,"timestamp":"2025-09-18T06:20:42.614Z","url":"/favicon.ico","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T06:23:14.389Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T06:23:14.396Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T06:23:14.397Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T06:23:14.398Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T06:23:14.624Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T06:23:14.629Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:23:14.630Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:23:14.630Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:23:14.631Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T06:23:20.195Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T06:23:20.201Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T06:23:20.202Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T06:23:20.202Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T06:23:20.404Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T06:23:20.453Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:23:20.456Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:23:20.469Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:23:20.470Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T06:23:33.967Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T06:23:33.971Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T06:23:33.972Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T06:23:33.972Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T06:23:34.162Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T06:23:34.165Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:23:34.166Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:23:34.166Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:23:34.167Z"}
+{"level":"http","message":"::1 - - [18/Sep/2025:06:23:39 +0000] \"GET /api HTTP/1.1\" 200 246 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-18T06:23:39.413Z"}
+{"duration":"23ms","ip":"::1","level":"http","message":"GET /api 200 - 23ms","method":"GET","status":200,"timestamp":"2025-09-18T06:23:39.415Z","url":"/api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"error","message":"Error occurred: Not found - /favicon.ico","method":"GET","stack":"Error: Not found - /favicon.ico\n    at notFound (file:///D:/My-Projects/communication/backend/src/middlewares/errorMiddleware.js:104:17)\n    at Layer.handleRequest (D:\\My-Projects\\communication\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at trimPrefix (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:342:13)\n    at D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:297:9\n    at processParams (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:582:12)\n    at next (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:291:5)\n    at Layer.handleRequest (D:\\My-Projects\\communication\\backend\\node_modules\\router\\lib\\layer.js:147:12)\n    at trimPrefix (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:342:13)\n    at D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:297:9\n    at processParams (D:\\My-Projects\\communication\\backend\\node_modules\\router\\index.js:582:12)","timestamp":"2025-09-18T06:23:39.519Z","url":"/favicon.ico","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"http","message":"::1 - - [18/Sep/2025:06:23:39 +0000] \"GET /favicon.ico HTTP/1.1\" 404 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-18T06:23:39.526Z"}
+{"duration":"8ms","ip":"::1","level":"http","message":"GET /favicon.ico 404 - 8ms","method":"GET","status":404,"timestamp":"2025-09-18T06:23:39.526Z","url":"/favicon.ico","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Received SIGINT. Starting graceful shutdown...","timestamp":"2025-09-18T06:29:23.064Z"}
+{"level":"info","message":"Database disconnected","timestamp":"2025-09-18T06:29:23.068Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T06:29:33.571Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T06:29:33.574Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T06:29:33.575Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T06:29:33.576Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T06:29:33.640Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T06:29:33.643Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:29:33.644Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:29:33.644Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:29:33.644Z"}
