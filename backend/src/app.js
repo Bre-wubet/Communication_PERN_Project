@@ -17,6 +17,7 @@ import emailRoutes from './modules/routes/emailRoutes.js';
 import smsRoutes from './modules/routes/smsRoutes.js';
 import pushRoutes from './modules/routes/pushRoutes.js';
 import commentRoutes from './modules/routes/commentRoutes.js';
+import authRoutes from './modules/routes/authRoutes.js';
 
 // Import database configuration
 import { dbConfig } from './config/db.js';
@@ -129,6 +130,7 @@ class App {
           sms: '/api/sms',
           push: '/api/push',
           comments: '/api/comments',
+          auth: '/api/auth',
         },
         documentation: 'https://github.com/your-org/communication-api',
       });
@@ -139,6 +141,7 @@ class App {
     this.app.use('/api/sms', smsRoutes);
     this.app.use('/api/push', pushRoutes);
     this.app.use('/api/comments', commentRoutes);
+    this.app.use('/api/auth', authRoutes);
 
     // Root endpoint
     this.app.get('/', (req, res) => {

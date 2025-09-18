@@ -142,3 +142,334 @@
 {"level":"info","message":"Environment: development","timestamp":"2025-09-18T06:29:33.644Z"}
 {"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T06:29:33.644Z"}
 {"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T06:29:33.644Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T13:38:47.141Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T13:38:47.157Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T13:38:47.160Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T13:38:47.162Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T13:38:47.387Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T13:38:47.395Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T13:38:47.396Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T13:38:47.396Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T13:38:47.397Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T13:56:36.141Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T13:56:36.147Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T13:56:36.148Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T13:56:36.150Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T13:56:36.319Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T13:56:36.331Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T13:56:36.332Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T13:56:36.333Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T13:56:36.335Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T13:57:00.084Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T13:57:00.098Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T13:57:00.100Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T13:57:00.102Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T13:57:00.377Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T13:57:00.396Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T13:57:00.407Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T13:57:00.411Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T13:57:00.415Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T13:57:13.394Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T13:57:13.461Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T13:57:13.468Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T13:57:13.472Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T13:57:13.649Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T13:57:13.655Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T13:57:13.656Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T13:57:13.657Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T13:57:13.658Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T13:57:35.038Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T13:57:35.048Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T13:57:35.051Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T13:57:35.053Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T13:57:35.185Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T13:57:35.194Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T13:57:35.195Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T13:57:35.197Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T13:57:35.199Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T13:57:46.312Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T13:57:46.330Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T13:57:46.335Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T13:57:46.338Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T13:57:46.573Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T13:57:46.580Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T13:57:46.585Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T13:57:46.586Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T13:57:46.587Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T13:57:56.027Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T13:57:56.053Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T13:57:56.057Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T13:57:56.061Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T13:57:56.265Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T13:57:56.273Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T13:57:56.274Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T13:57:56.274Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T13:57:56.275Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T13:58:28.975Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T13:58:29.003Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T13:58:29.020Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T13:58:29.030Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T13:58:29.379Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T13:58:29.395Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T13:58:29.401Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T13:58:29.403Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T13:58:29.405Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T13:58:37.651Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T13:58:37.665Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T13:58:37.670Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T13:58:37.675Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T13:58:38.060Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T13:58:38.071Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T13:58:38.081Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T13:58:38.082Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T13:58:38.083Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T13:59:04.327Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T13:59:04.334Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T13:59:04.336Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T13:59:04.337Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T13:59:04.574Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T13:59:04.584Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T13:59:04.585Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T13:59:04.586Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T13:59:04.587Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T13:59:33.366Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T13:59:33.377Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T13:59:33.380Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T13:59:33.383Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T13:59:33.619Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T13:59:33.628Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T13:59:33.629Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T13:59:33.630Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T13:59:33.632Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T14:01:10.830Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T14:01:10.841Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T14:01:10.842Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T14:01:10.843Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T14:01:11.027Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T14:01:11.045Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T14:01:11.052Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T14:01:11.056Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T14:01:11.058Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T14:03:27.160Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T14:03:27.177Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T14:03:27.183Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T14:03:27.185Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T14:03:27.381Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T14:03:27.389Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T14:03:27.390Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T14:03:27.390Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T14:03:27.392Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T14:06:50.596Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T14:06:50.602Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T14:06:50.603Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T14:06:50.604Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T14:06:50.738Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T14:06:50.745Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T14:06:50.746Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T14:06:50.747Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T14:06:50.748Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T14:07:30.570Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T14:07:30.578Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T14:07:30.580Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T14:07:30.582Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T14:07:30.840Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T14:07:30.850Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T14:07:30.852Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T14:07:30.853Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T14:07:30.855Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-18T14:07:39.652Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-18T14:07:39.661Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-18T14:07:39.663Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-18T14:07:39.665Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-18T14:07:39.834Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-18T14:07:39.841Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-18T14:07:39.842Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-18T14:07:39.843Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-18T14:07:39.844Z"}
+{"level":"debug","message":"Query: BEGIN","timestamp":"2025-09-18T15:03:15.919Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T15:03:15.921Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T15:03:15.921Z"}
+{"level":"debug","message":"Query: INSERT INTO \"public\".\"Tenant\" (\"name\",\"domain\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4) RETURNING \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\"","timestamp":"2025-09-18T15:03:15.965Z"}
+{"level":"debug","message":"Params: [\"Acme Corp\",\"acme.com\",\"2025-09-18 15:03:15.933 UTC\",\"2025-09-18 15:03:15.933 UTC\"]","timestamp":"2025-09-18T15:03:15.965Z"}
+{"level":"debug","message":"Duration: 13ms","timestamp":"2025-09-18T15:03:15.966Z"}
+{"level":"debug","message":"Query: INSERT INTO \"public\".\"User\" (\"tenantId\",\"email\",\"name\",\"role\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\"","timestamp":"2025-09-18T15:03:15.980Z"}
+{"level":"debug","message":"Params: [1,\"admin@acme.com\",\"Alice Johnson\",\"admin\",\"2025-09-18 15:03:15.970 UTC\",\"2025-09-18 15:03:15.970 UTC\"]","timestamp":"2025-09-18T15:03:15.980Z"}
+{"level":"debug","message":"Duration: 5ms","timestamp":"2025-09-18T15:03:15.981Z"}
+{"level":"debug","message":"Query: COMMIT","timestamp":"2025-09-18T15:03:16.003Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T15:03:16.004Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-18T15:03:16.005Z"}
+{"level":"http","message":"::1 - - [18/Sep/2025:15:03:16 +0000] \"POST /api/auth/register-tenant HTTP/1.1\" 201 791 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T15:03:16.015Z"}
+{"duration":"279ms","ip":"::1","level":"http","message":"POST /api/auth/register-tenant 201 - 279ms","method":"POST","status":201,"timestamp":"2025-09-18T15:03:16.016Z","url":"/api/auth/register-tenant","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-18T15:04:47.962Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T15:04:47.962Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T15:04:47.963Z"}
+{"level":"debug","message":"Query: BEGIN","timestamp":"2025-09-18T15:04:47.963Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T15:04:47.963Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T15:04:47.963Z"}
+{"level":"debug","message":"Query: INSERT INTO \"public\".\"Tenant\" (\"name\",\"domain\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4) RETURNING \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\"","timestamp":"2025-09-18T15:04:47.965Z"}
+{"level":"debug","message":"Params: [\"Globex Inc\",\"globex.com\",\"2025-09-18 15:04:47.966 UTC\",\"2025-09-18 15:04:47.966 UTC\"]","timestamp":"2025-09-18T15:04:47.965Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T15:04:47.965Z"}
+{"level":"debug","message":"Query: INSERT INTO \"public\".\"User\" (\"tenantId\",\"email\",\"name\",\"role\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\"","timestamp":"2025-09-18T15:04:47.967Z"}
+{"level":"debug","message":"Params: [2,\"ceo@globex.com\",\"Charlie Brown\",\"admin\",\"2025-09-18 15:04:47.968 UTC\",\"2025-09-18 15:04:47.968 UTC\"]","timestamp":"2025-09-18T15:04:47.967Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T15:04:47.968Z"}
+{"level":"debug","message":"Query: COMMIT","timestamp":"2025-09-18T15:04:47.973Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T15:04:47.974Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T15:04:47.974Z"}
+{"level":"http","message":"::1 - - [18/Sep/2025:15:04:47 +0000] \"POST /api/auth/register-tenant HTTP/1.1\" 201 794 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T15:04:47.976Z"}
+{"duration":"25ms","ip":"::1","level":"http","message":"POST /api/auth/register-tenant 201 - 25ms","method":"POST","status":201,"timestamp":"2025-09-18T15:04:47.977Z","url":"/api/auth/register-tenant","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-18T15:05:16.528Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T15:05:16.529Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T15:05:16.529Z"}
+{"level":"debug","message":"Query: BEGIN","timestamp":"2025-09-18T15:05:16.529Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T15:05:16.530Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T15:05:16.530Z"}
+{"level":"debug","message":"Query: INSERT INTO \"public\".\"Tenant\" (\"name\",\"domain\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4) RETURNING \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\"","timestamp":"2025-09-18T15:05:16.532Z"}
+{"level":"debug","message":"Params: [\"Initech\",\"initech.org\",\"2025-09-18 15:05:16.533 UTC\",\"2025-09-18 15:05:16.533 UTC\"]","timestamp":"2025-09-18T15:05:16.533Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T15:05:16.535Z"}
+{"level":"debug","message":"Query: INSERT INTO \"public\".\"User\" (\"tenantId\",\"email\",\"name\",\"role\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\"","timestamp":"2025-09-18T15:05:16.538Z"}
+{"level":"debug","message":"Params: [3,\"manager@initech.org\",\"Frank Murphy\",\"admin\",\"2025-09-18 15:05:16.538 UTC\",\"2025-09-18 15:05:16.538 UTC\"]","timestamp":"2025-09-18T15:05:16.538Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T15:05:16.539Z"}
+{"level":"debug","message":"Query: COMMIT","timestamp":"2025-09-18T15:05:16.544Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T15:05:16.544Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T15:05:16.544Z"}
+{"level":"http","message":"::1 - - [18/Sep/2025:15:05:16 +0000] \"POST /api/auth/register-tenant HTTP/1.1\" 201 803 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T15:05:16.546Z"}
+{"duration":"19ms","ip":"::1","level":"http","message":"POST /api/auth/register-tenant 201 - 19ms","method":"POST","status":201,"timestamp":"2025-09-18T15:05:16.546Z","url":"/api/auth/register-tenant","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"http","message":"::1 - - [18/Sep/2025:15:06:57 +0000] \"POST /api/auth/register-user HTTP/1.1\" 401 74 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T15:06:57.986Z"}
+{"duration":"3ms","ip":"::1","level":"http","message":"POST /api/auth/register-user 401 - 3ms","method":"POST","status":401,"timestamp":"2025-09-18T15:06:57.986Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"http","message":"::1 - - [18/Sep/2025:15:19:43 +0000] \"POST /api/auth/register-user HTTP/1.1\" 401 74 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T15:19:43.683Z"}
+{"duration":"2ms","ip":"::1","level":"http","message":"POST /api/auth/register-user 401 - 2ms","method":"POST","status":401,"timestamp":"2025-09-18T15:19:43.683Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"http","message":"::1 - - [18/Sep/2025:15:28:00 +0000] \"POST /api/auth/register-user HTTP/1.1\" 401 74 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T15:28:00.757Z"}
+{"duration":"2ms","ip":"::1","level":"http","message":"POST /api/auth/register-user 401 - 2ms","method":"POST","status":401,"timestamp":"2025-09-18T15:28:00.758Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"http","message":"::1 - - [18/Sep/2025:15:32:48 +0000] \"POST /api/auth/register-user HTTP/1.1\" 401 74 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T15:32:48.397Z"}
+{"duration":"2ms","ip":"::1","level":"http","message":"POST /api/auth/register-user 401 - 2ms","method":"POST","status":401,"timestamp":"2025-09-18T15:32:48.398Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"http","message":"::1 - - [18/Sep/2025:18:16:10 +0000] \"POST /api/auth/login HTTP/1.1\" 400 127 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T18:16:10.059Z"}
+{"duration":"10ms","ip":"::1","level":"http","message":"POST /api/auth/login 400 - 10ms","method":"POST","status":400,"timestamp":"2025-09-18T18:16:10.060Z","url":"/api/auth/login","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"http","message":"::1 - - [18/Sep/2025:18:17:32 +0000] \"POST /api/auth/login HTTP/1.1\" 400 127 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T18:17:32.228Z"}
+{"duration":"7ms","ip":"::1","level":"http","message":"POST /api/auth/login 400 - 7ms","method":"POST","status":400,"timestamp":"2025-09-18T18:17:32.229Z","url":"/api/auth/login","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"email\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-18T18:18:12.734Z"}
+{"level":"debug","message":"Params: [\"manager@initech.org\",1,0]","timestamp":"2025-09-18T18:18:12.735Z"}
+{"level":"debug","message":"Duration: 7ms","timestamp":"2025-09-18T18:18:12.735Z"}
+{"level":"http","message":"::1 - - [18/Sep/2025:18:18:12 +0000] \"POST /api/auth/login HTTP/1.1\" 200 659 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T18:18:12.742Z"}
+{"duration":"222ms","ip":"::1","level":"http","message":"POST /api/auth/login 200 - 222ms","method":"POST","status":200,"timestamp":"2025-09-18T18:18:12.743Z","url":"/api/auth/login","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-18T18:19:41.851Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T18:19:41.853Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T18:19:41.853Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-18T18:19:41.854Z"}
+{"level":"debug","message":"Params: [3,1,0]","timestamp":"2025-09-18T18:19:41.855Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-18T18:19:41.856Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-18T18:19:41.859Z"}
+{"level":"debug","message":"Params: [3,0]","timestamp":"2025-09-18T18:19:41.860Z"}
+{"level":"debug","message":"Duration: 4ms","timestamp":"2025-09-18T18:19:41.860Z"}
+{"level":"debug","message":"Query: INSERT INTO \"public\".\"User\" (\"tenantId\",\"email\",\"name\",\"role\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\"","timestamp":"2025-09-18T18:19:41.873Z"}
+{"level":"debug","message":"Params: [3,\"gina@initech.org\",\"Gina Lopez\",\"user\",\"2025-09-18 18:19:41.869 UTC\",\"2025-09-18 18:19:41.869 UTC\"]","timestamp":"2025-09-18T18:19:41.874Z"}
+{"level":"debug","message":"Duration: 3ms","timestamp":"2025-09-18T18:19:41.875Z"}
+{"level":"http","message":"::1 - - [18/Sep/2025:18:19:41 +0000] \"POST /api/auth/register-user HTTP/1.1\" 201 644 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T18:19:41.886Z"}
+{"duration":"47ms","ip":"::1","level":"http","message":"POST /api/auth/register-user 201 - 47ms","method":"POST","status":201,"timestamp":"2025-09-18T18:19:41.887Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-18T18:20:55.872Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T18:20:55.873Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T18:20:55.873Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-18T18:20:55.874Z"}
+{"level":"debug","message":"Params: [3,1,0]","timestamp":"2025-09-18T18:20:55.875Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T18:20:55.876Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-18T18:20:55.876Z"}
+{"level":"debug","message":"Params: [3,0]","timestamp":"2025-09-18T18:20:55.877Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T18:20:55.878Z"}
+{"level":"debug","message":"Query: INSERT INTO \"public\".\"User\" (\"tenantId\",\"email\",\"name\",\"role\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\"","timestamp":"2025-09-18T18:20:55.884Z"}
+{"level":"debug","message":"Params: [3,\"ethan@globex.com\",\"Ethan Hunt\",\"user\",\"2025-09-18 18:20:55.882 UTC\",\"2025-09-18 18:20:55.882 UTC\"]","timestamp":"2025-09-18T18:20:55.885Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-18T18:20:55.886Z"}
+{"level":"http","message":"::1 - - [18/Sep/2025:18:20:55 +0000] \"POST /api/auth/register-user HTTP/1.1\" 201 644 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T18:20:55.895Z"}
+{"duration":"31ms","ip":"::1","level":"http","message":"POST /api/auth/register-user 201 - 31ms","method":"POST","status":201,"timestamp":"2025-09-18T18:20:55.896Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-18T18:22:34.844Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T18:22:34.846Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T18:22:34.847Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"email\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-18T18:22:34.848Z"}
+{"level":"debug","message":"Params: [\"ceo@globex.com\",1,0]","timestamp":"2025-09-18T18:22:34.849Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T18:22:34.849Z"}
+{"level":"http","message":"::1 - - [18/Sep/2025:18:22:34 +0000] \"POST /api/auth/login HTTP/1.1\" 200 648 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T18:22:34.861Z"}
+{"duration":"22ms","ip":"::1","level":"http","message":"POST /api/auth/login 200 - 22ms","method":"POST","status":200,"timestamp":"2025-09-18T18:22:34.862Z","url":"/api/auth/login","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-18T18:24:25.136Z"}
+{"level":"debug","message":"Params: [2,1,0]","timestamp":"2025-09-18T18:24:25.137Z"}
+{"level":"debug","message":"Duration: 7ms","timestamp":"2025-09-18T18:24:25.137Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-18T18:24:25.140Z"}
+{"level":"debug","message":"Params: [2,0]","timestamp":"2025-09-18T18:24:25.141Z"}
+{"level":"debug","message":"Duration: 3ms","timestamp":"2025-09-18T18:24:25.141Z"}
+{"level":"debug","message":"Query: INSERT INTO \"public\".\"User\" (\"tenantId\",\"email\",\"name\",\"role\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\"","timestamp":"2025-09-18T18:24:25.161Z"}
+{"level":"debug","message":"Params: [2,\"ethan@globex.com\",\"Ethan Hunt\",\"user\",\"2025-09-18 18:24:25.145 UTC\",\"2025-09-18 18:24:25.145 UTC\"]","timestamp":"2025-09-18T18:24:25.162Z"}
+{"level":"debug","message":"Duration: 16ms","timestamp":"2025-09-18T18:24:25.162Z"}
+{"clientVersion":"6.16.2","code":"P2002","level":"error","message":"Failed to create user: \nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)","meta":{"modelName":"User","target":["email"]},"name":"PrismaClientKnownRequestError","stack":"PrismaClientKnownRequestError: \nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)\n    at ei.handleRequestError (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:7268)\n    at ei.handleAndLogRequestError (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:6593)\n    at ei.request (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:6300)\n    at async a (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:133:9551)\n    at async UserRepository.createUser (file:///D:/My-Projects/communication/backend/src/modules/repositories/userRepository.js:15:14)\n    at async AuthService.registerUser (file:///D:/My-Projects/communication/backend/src/modules/services/authService.js:24:18)\n    at async file:///D:/My-Projects/communication/backend/src/modules/controllers/authController.js:15:20","timestamp":"2025-09-18T18:24:25.177Z"}
+{"error":"\nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)","ip":"::1","level":"error","message":"\nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)","method":"POST","stack":"PrismaClientKnownRequestError: \nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)\n    at ei.handleRequestError (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:7268)\n    at ei.handleAndLogRequestError (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:6593)\n    at ei.request (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:6300)\n    at async a (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:133:9551)\n    at async UserRepository.createUser (file:///D:/My-Projects/communication/backend/src/modules/repositories/userRepository.js:15:14)\n    at async AuthService.registerUser (file:///D:/My-Projects/communication/backend/src/modules/services/authService.js:24:18)\n    at async file:///D:/My-Projects/communication/backend/src/modules/controllers/authController.js:15:20","timestamp":"2025-09-18T18:24:25.180Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"ip":"::1","level":"error","message":"Error occurred: \nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)","method":"POST","stack":"PrismaClientKnownRequestError: \nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)\n    at ei.handleRequestError (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:7268)\n    at ei.handleAndLogRequestError (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:6593)\n    at ei.request (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:6300)\n    at async a (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:133:9551)\n    at async UserRepository.createUser (file:///D:/My-Projects/communication/backend/src/modules/repositories/userRepository.js:15:14)\n    at async AuthService.registerUser (file:///D:/My-Projects/communication/backend/src/modules/services/authService.js:24:18)\n    at async file:///D:/My-Projects/communication/backend/src/modules/controllers/authController.js:15:20","timestamp":"2025-09-18T18:24:25.182Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"http","message":"::1 - - [18/Sep/2025:18:24:25 +0000] \"POST /api/auth/register-user HTTP/1.1\" 400 - \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T18:24:25.204Z"}
+{"duration":"218ms","ip":"::1","level":"http","message":"POST /api/auth/register-user 400 - 218ms","method":"POST","status":400,"timestamp":"2025-09-18T18:24:25.205Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-18T18:24:52.263Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T18:24:52.265Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T18:24:52.265Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-18T18:24:52.267Z"}
+{"level":"debug","message":"Params: [2,1,0]","timestamp":"2025-09-18T18:24:52.267Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T18:24:52.269Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-18T18:24:52.270Z"}
+{"level":"debug","message":"Params: [2,0]","timestamp":"2025-09-18T18:24:52.271Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T18:24:52.272Z"}
+{"level":"debug","message":"Query: INSERT INTO \"public\".\"User\" (\"tenantId\",\"email\",\"name\",\"role\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\"","timestamp":"2025-09-18T18:24:52.278Z"}
+{"level":"debug","message":"Params: [2,\"ethan@globex.com\",\"Ethan Hunt\",\"user\",\"2025-09-18 18:24:52.277 UTC\",\"2025-09-18 18:24:52.277 UTC\"]","timestamp":"2025-09-18T18:24:52.280Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-18T18:24:52.282Z"}
+{"clientVersion":"6.16.2","code":"P2002","level":"error","message":"Failed to create user: \nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)","meta":{"modelName":"User","target":["email"]},"name":"PrismaClientKnownRequestError","stack":"PrismaClientKnownRequestError: \nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)\n    at ei.handleRequestError (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:7268)\n    at ei.handleAndLogRequestError (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:6593)\n    at ei.request (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:6300)\n    at async a (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:133:9551)\n    at async UserRepository.createUser (file:///D:/My-Projects/communication/backend/src/modules/repositories/userRepository.js:15:14)\n    at async AuthService.registerUser (file:///D:/My-Projects/communication/backend/src/modules/services/authService.js:24:18)\n    at async file:///D:/My-Projects/communication/backend/src/modules/controllers/authController.js:15:20","timestamp":"2025-09-18T18:24:52.291Z"}
+{"error":"\nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)","ip":"::1","level":"error","message":"\nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)","method":"POST","stack":"PrismaClientKnownRequestError: \nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)\n    at ei.handleRequestError (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:7268)\n    at ei.handleAndLogRequestError (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:6593)\n    at ei.request (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:6300)\n    at async a (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:133:9551)\n    at async UserRepository.createUser (file:///D:/My-Projects/communication/backend/src/modules/repositories/userRepository.js:15:14)\n    at async AuthService.registerUser (file:///D:/My-Projects/communication/backend/src/modules/services/authService.js:24:18)\n    at async file:///D:/My-Projects/communication/backend/src/modules/controllers/authController.js:15:20","timestamp":"2025-09-18T18:24:52.295Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"ip":"::1","level":"error","message":"Error occurred: \nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)","method":"POST","stack":"PrismaClientKnownRequestError: \nInvalid `prisma.user.create()` invocation:\n\n\nUnique constraint failed on the fields: (`email`)\n    at ei.handleRequestError (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:7268)\n    at ei.handleAndLogRequestError (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:6593)\n    at ei.request (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:124:6300)\n    at async a (D:\\My-Projects\\communication\\backend\\generated\\prisma\\runtime\\library.js:133:9551)\n    at async UserRepository.createUser (file:///D:/My-Projects/communication/backend/src/modules/repositories/userRepository.js:15:14)\n    at async AuthService.registerUser (file:///D:/My-Projects/communication/backend/src/modules/services/authService.js:24:18)\n    at async file:///D:/My-Projects/communication/backend/src/modules/controllers/authController.js:15:20","timestamp":"2025-09-18T18:24:52.298Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"http","message":"::1 - - [18/Sep/2025:18:24:52 +0000] \"POST /api/auth/register-user HTTP/1.1\" 400 - \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T18:24:52.307Z"}
+{"duration":"52ms","ip":"::1","level":"http","message":"POST /api/auth/register-user 400 - 52ms","method":"POST","status":400,"timestamp":"2025-09-18T18:24:52.309Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-18T18:25:31.224Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T18:25:31.226Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-18T18:25:31.227Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-18T18:25:31.229Z"}
+{"level":"debug","message":"Params: [2,1,0]","timestamp":"2025-09-18T18:25:31.230Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-18T18:25:31.231Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-18T18:25:31.233Z"}
+{"level":"debug","message":"Params: [2,0]","timestamp":"2025-09-18T18:25:31.235Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-18T18:25:31.236Z"}
+{"level":"debug","message":"Query: INSERT INTO \"public\".\"User\" (\"tenantId\",\"email\",\"name\",\"role\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\"","timestamp":"2025-09-18T18:25:31.253Z"}
+{"level":"debug","message":"Params: [2,\"diana@globex.com\",\"Diana Prince\",\"user\",\"2025-09-18 18:25:31.243 UTC\",\"2025-09-18 18:25:31.243 UTC\"]","timestamp":"2025-09-18T18:25:31.255Z"}
+{"level":"debug","message":"Duration: 7ms","timestamp":"2025-09-18T18:25:31.256Z"}
+{"level":"http","message":"::1 - - [18/Sep/2025:18:25:31 +0000] \"POST /api/auth/register-user HTTP/1.1\" 201 646 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T18:25:31.274Z"}
+{"duration":"63ms","ip":"::1","level":"http","message":"POST /api/auth/register-user 201 - 63ms","method":"POST","status":201,"timestamp":"2025-09-18T18:25:31.276Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"email\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-18T18:47:47.640Z"}
+{"level":"debug","message":"Params: [\"admin@acme.com\",1,0]","timestamp":"2025-09-18T18:47:47.641Z"}
+{"level":"debug","message":"Duration: 5ms","timestamp":"2025-09-18T18:47:47.642Z"}
+{"level":"http","message":"::1 - - [18/Sep/2025:18:47:47 +0000] \"POST /api/auth/login HTTP/1.1\" 200 648 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T18:47:47.647Z"}
+{"duration":"114ms","ip":"::1","level":"http","message":"POST /api/auth/login 200 - 114ms","method":"POST","status":200,"timestamp":"2025-09-18T18:47:47.647Z","url":"/api/auth/login","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-18T18:48:54.536Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-18T18:48:54.537Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T18:48:54.537Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-18T18:48:54.538Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-18T18:48:54.539Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T18:48:54.539Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-18T18:48:54.541Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-18T18:48:54.542Z"}
+{"level":"debug","message":"Duration: 3ms","timestamp":"2025-09-18T18:48:54.542Z"}
+{"level":"debug","message":"Query: INSERT INTO \"public\".\"User\" (\"tenantId\",\"email\",\"name\",\"role\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6) RETURNING \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\"","timestamp":"2025-09-18T18:48:54.555Z"}
+{"level":"debug","message":"Params: [1,\"bob@acme.com\",\"Bob Smith\",\"user\",\"2025-09-18 18:48:54.545 UTC\",\"2025-09-18 18:48:54.545 UTC\"]","timestamp":"2025-09-18T18:48:54.556Z"}
+{"level":"debug","message":"Duration: 10ms","timestamp":"2025-09-18T18:48:54.557Z"}
+{"level":"http","message":"::1 - - [18/Sep/2025:18:48:54 +0000] \"POST /api/auth/register-user HTTP/1.1\" 201 633 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T18:48:54.563Z"}
+{"duration":"32ms","ip":"::1","level":"http","message":"POST /api/auth/register-user 201 - 32ms","method":"POST","status":201,"timestamp":"2025-09-18T18:48:54.564Z","url":"/api/auth/register-user","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-18T18:56:30.869Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-18T18:56:30.871Z"}
+{"level":"debug","message":"Duration: 9ms","timestamp":"2025-09-18T18:56:30.872Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-18T18:56:30.877Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-18T18:56:30.878Z"}
+{"level":"debug","message":"Duration: 6ms","timestamp":"2025-09-18T18:56:30.878Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-18T18:56:30.884Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-18T18:56:30.885Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-18T18:56:30.886Z"}
+{"level":"http","message":"::1 - - [18/Sep/2025:18:56:30 +0000] \"GET /api/auth/me HTTP/1.1\" 200 186 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T18:56:30.890Z"}
+{"duration":"201ms","ip":"::1","level":"http","message":"GET /api/auth/me 200 - 201ms","method":"GET","status":200,"timestamp":"2025-09-18T18:56:30.891Z","url":"/api/auth/me","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"http","message":"::1 - - [18/Sep/2025:18:57:27 +0000] \"POST /api/auth/refresh HTTP/1.1\" 400 141 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T18:57:27.015Z"}
+{"duration":"2ms","ip":"::1","level":"http","message":"POST /api/auth/refresh 400 - 2ms","method":"POST","status":400,"timestamp":"2025-09-18T18:57:27.015Z","url":"/api/auth/refresh","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"http","message":"::1 - - [18/Sep/2025:19:00:36 +0000] \"POST /api/auth/refresh HTTP/1.1\" 400 141 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T19:00:36.417Z"}
+{"duration":"4ms","ip":"::1","level":"http","message":"POST /api/auth/refresh 400 - 4ms","method":"POST","status":400,"timestamp":"2025-09-18T19:00:36.418Z","url":"/api/auth/refresh","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"http","message":"::1 - - [18/Sep/2025:19:01:57 +0000] \"POST /api/auth/refresh HTTP/1.1\" 400 141 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T19:01:57.177Z"}
+{"duration":"5ms","ip":"::1","level":"http","message":"POST /api/auth/refresh 400 - 5ms","method":"POST","status":400,"timestamp":"2025-09-18T19:01:57.179Z","url":"/api/auth/refresh","userAgent":"PostmanRuntime/7.46.0"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-18T19:04:43.571Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-18T19:04:43.572Z"}
+{"level":"debug","message":"Duration: 5ms","timestamp":"2025-09-18T19:04:43.572Z"}
+{"level":"http","message":"::1 - - [18/Sep/2025:19:04:43 +0000] \"POST /api/auth/refresh HTTP/1.1\" 200 287 \"-\" \"PostmanRuntime/7.46.0\"","timestamp":"2025-09-18T19:04:43.576Z"}
+{"duration":"142ms","ip":"::1","level":"http","message":"POST /api/auth/refresh 200 - 142ms","method":"POST","status":200,"timestamp":"2025-09-18T19:04:43.576Z","url":"/api/auth/refresh","userAgent":"PostmanRuntime/7.46.0"}
