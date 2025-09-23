@@ -1,0 +1,151 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Tenant {
+  id          Int      @id @default(autoincrement())
+  name        String
+  domain      String?   @unique
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  users       User[]
+  emailLogs   EmailLog[]
+  smsLogs     SmsLog[]
+  notifications PushNotification[]
+  comments    Comment[]
+  replies     Reply[]
+  mentions    Mention[]
+}
+
+model User {
+  id        Int       @id @default(autoincrement())
+  tenantId  Int
+  email     String    @unique
+  name      String?
+  role      String    @default("user") // admin | user | etc.
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  tenant    Tenant    @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  comments  Comment[]
+  replies   Reply[]
+  mentions  Mention[]
+  notifications PushNotification[]
+
+  @@index([tenantId])
+}
+
+model EmailLog {
+  id          Int      @id @default(autoincrement())
+  tenantId    Int
+  to          String
+  subject     String
+  body        String
+  status      String   @default("pending") // pending | sent | failed
+  provider    String?
+  errorMessage String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  tenant      Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+
+  @@index([tenantId])
+  @@index([to])
+  @@index([status])
+}
+
+model SmsLog {
+  id          Int      @id @default(autoincrement())
+  tenantId    Int
+  phone       String
+  message     String
+  status      String   @default("pending")
+  provider    String?
+  errorMessage String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  tenant      Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+
+  @@index([tenantId])
+  @@index([phone])
+  @@index([status])
+}
+
+model PushNotification {
+  id        Int      @id @default(autoincrement())
+  tenantId  Int
+  userId    Int
+  title     String
+  message   String
+  isRead    Boolean  @default(false)
+  priority  String?  @default("normal")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  tenant    Tenant   @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([tenantId, userId])
+  @@index([isRead])
+}
+
+model Comment {
+  id        Int       @id @default(autoincrement())
+  tenantId  Int
+  userId    Int
+  content   String
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  tenant    Tenant    @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  replies   Reply[]
+
+  @@index([tenantId, userId])
+}
+
+model Reply {
+  id        Int       @id @default(autoincrement())
+  tenantId  Int
+  commentId Int
+  userId    Int
+  content   String
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  tenant    Tenant    @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  comment   Comment   @relation(fields: [commentId], references: [id], onDelete: Cascade)
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  mentions  Mention[]
+
+  @@index([tenantId, commentId])
+  @@index([tenantId, userId])
+}
+
+model Mention {
+  id       Int    @id @default(autoincrement())
+  tenantId Int
+  replyId  Int
+  userId   Int
+
+  tenant   Tenant @relation(fields: [tenantId], references: [id], onDelete: Cascade)
+  reply    Reply  @relation(fields: [replyId], references: [id], onDelete: Cascade)
+  user     User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([tenantId, replyId, userId]) // scoped uniqueness
+  @@index([tenantId])
+}

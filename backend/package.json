@@ -1,0 +1,42 @@
+{
+  "name": "communication-backend",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "db:generate": "prisma generate",
+    "db:push": "prisma db push",
+    "db:migrate": "prisma migrate dev",
+    "db:studio": "prisma studio",
+    "setup": "node scripts/setup.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["communication", "email", "sms", "push-notifications", "comments"],
+  "author": "",
+  "license": "ISC",
+  "description": "Multi-tenant communication system with email, SMS, push notifications, and comments",
+  "dependencies": {
+    "@prisma/client": "^6.16.2",
+    "bcrypt": "^6.0.0",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.1.0",
+    "firebase-admin": "^13.5.0",
+    "helmet": "^8.1.0",
+    "joi": "^18.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.1",
+    "nodemailer": "^7.0.6",
+    "nodemon": "^3.1.10",
+    "pg": "^8.16.3",
+    "twilio": "^5.9.0",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "prisma": "^6.16.2"
+  }
+}
