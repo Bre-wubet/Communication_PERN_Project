@@ -3342,3 +3342,419 @@
 {"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-23T16:39:13.336Z"}
 {"level":"http","message":"::1 - - [23/Sep/2025:16:39:13 +0000] \"GET /api/sms/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-23T16:39:13.337Z"}
 {"duration":"10ms","ip":"::1","level":"http","message":"GET /api/sms/logs?page=1&limit=10 304 - 10ms","method":"GET","status":304,"timestamp":"2025-09-23T16:39:13.337Z","url":"/api/sms/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-23T17:11:18.625Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-23T17:11:18.629Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-23T17:11:18.630Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-23T17:11:18.630Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-23T17:11:18.795Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-23T17:11:18.798Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-23T17:11:18.798Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-23T17:11:18.798Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-23T17:11:18.799Z"}
+{"level":"info","message":"Starting Communication API Server...","timestamp":"2025-09-28T03:22:26.902Z"}
+{"level":"info","message":"Environment:","timestamp":"2025-09-28T03:22:26.913Z"}
+{"level":"info","message":"Port:","timestamp":"2025-09-28T03:22:26.915Z"}
+{"level":"info","message":"Database URL:","timestamp":"2025-09-28T03:22:26.917Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-28T03:22:27.245Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-28T03:22:27.255Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-28T03:22:27.256Z"}
+{"level":"info","message":"Health check: http://localhost:3000/health","timestamp":"2025-09-28T03:22:27.257Z"}
+{"level":"info","message":"API documentation: http://localhost:3000/api","timestamp":"2025-09-28T03:22:27.258Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:22:48 +0000] \"GET /api/auth/me HTTP/1.1\" 401 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:22:48.692Z"}
+{"duration":"75ms","ip":"::1","level":"http","message":"GET /api/auth/me 401 - 75ms","method":"GET","status":401,"timestamp":"2025-09-28T03:22:48.695Z","url":"/api/auth/me","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:22:48 +0000] \"GET /api/auth/me HTTP/1.1\" 401 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:22:48.708Z"}
+{"duration":"6ms","ip":"::1","level":"http","message":"GET /api/auth/me 401 - 6ms","method":"GET","status":401,"timestamp":"2025-09-28T03:22:48.709Z","url":"/api/auth/me","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:22:52 +0000] \"GET /api/emails/logs?page=1&limit=10 HTTP/1.1\" 401 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:22:52.706Z"}
+{"duration":"7ms","ip":"::1","level":"http","message":"GET /api/emails/logs?page=1&limit=10 401 - 7ms","method":"GET","status":401,"timestamp":"2025-09-28T03:22:52.707Z","url":"/api/emails/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:22:52 +0000] \"GET /api/emails/logs?page=1&limit=10 HTTP/1.1\" 401 66 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:22:52.717Z"}
+{"duration":"5ms","ip":"::1","level":"http","message":"GET /api/emails/logs?page=1&limit=10 401 - 5ms","method":"GET","status":401,"timestamp":"2025-09-28T03:22:52.718Z","url":"/api/emails/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-28T03:22:58.060Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-28T03:22:58.061Z"}
+{"level":"debug","message":"Duration: 15ms","timestamp":"2025-09-28T03:22:58.062Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"email\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:22:58.100Z"}
+{"level":"debug","message":"Params: [\"brwubet@gmail.com\",1,0]","timestamp":"2025-09-28T03:22:58.101Z"}
+{"level":"debug","message":"Duration: 21ms","timestamp":"2025-09-28T03:22:58.101Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:22:58 +0000] \"POST /api/auth/login HTTP/1.1\" 200 652 \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:22:58.112Z"}
+{"duration":"88ms","ip":"::1","level":"http","message":"POST /api/auth/login 200 - 88ms","method":"POST","status":200,"timestamp":"2025-09-28T03:22:58.113Z","url":"/api/auth/login","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:22:58.139Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:22:58.140Z"}
+{"level":"debug","message":"Duration: 2ms","timestamp":"2025-09-28T03:22:58.141Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:22:58.146Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:22:58.147Z"}
+{"level":"debug","message":"Duration: 5ms","timestamp":"2025-09-28T03:22:58.147Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"EmailLog\".\"id\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:22:58.169Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:22:58.169Z"}
+{"level":"debug","message":"Duration: 10ms","timestamp":"2025-09-28T03:22:58.170Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"EmailLog\".\"id\", \"public\".\"EmailLog\".\"tenantId\", \"public\".\"EmailLog\".\"to\", \"public\".\"EmailLog\".\"subject\", \"public\".\"EmailLog\".\"body\", \"public\".\"EmailLog\".\"status\", \"public\".\"EmailLog\".\"provider\", \"public\".\"EmailLog\".\"errorMessage\", \"public\".\"EmailLog\".\"createdAt\", \"public\".\"EmailLog\".\"updatedAt\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 ORDER BY \"public\".\"EmailLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:22:58.264Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:22:58.265Z"}
+{"level":"debug","message":"Duration: 9ms","timestamp":"2025-09-28T03:22:58.266Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:22:58.268Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:22:58.269Z"}
+{"level":"debug","message":"Duration: 3ms","timestamp":"2025-09-28T03:22:58.270Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:22:58 +0000] \"GET /api/emails/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:22:58.273Z"}
+{"duration":"145ms","ip":"::1","level":"http","message":"GET /api/emails/logs?page=1&limit=10 304 - 145ms","method":"GET","status":304,"timestamp":"2025-09-28T03:22:58.274Z","url":"/api/emails/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:22:58.291Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:22:58.291Z"}
+{"level":"debug","message":"Duration: 4ms","timestamp":"2025-09-28T03:22:58.292Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:22:58.293Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:22:58.293Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:22:58.294Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"EmailLog\".\"id\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:22:58.299Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:22:58.300Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:22:58.301Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"EmailLog\".\"id\", \"public\".\"EmailLog\".\"tenantId\", \"public\".\"EmailLog\".\"to\", \"public\".\"EmailLog\".\"subject\", \"public\".\"EmailLog\".\"body\", \"public\".\"EmailLog\".\"status\", \"public\".\"EmailLog\".\"provider\", \"public\".\"EmailLog\".\"errorMessage\", \"public\".\"EmailLog\".\"createdAt\", \"public\".\"EmailLog\".\"updatedAt\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 ORDER BY \"public\".\"EmailLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:22:58.301Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:22:58.302Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:22:58.302Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:22:58.303Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:22:58.304Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:22:58.304Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:22:58 +0000] \"GET /api/emails/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:22:58.307Z"}
+{"duration":"26ms","ip":"::1","level":"http","message":"GET /api/emails/logs?page=1&limit=10 304 - 26ms","method":"GET","status":304,"timestamp":"2025-09-28T03:22:58.308Z","url":"/api/emails/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:00.408Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:23:00.409Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:00.410Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:00.410Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:00.411Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:00.412Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"EmailLog\".\"id\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:23:00.417Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:00.418Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:00.418Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"EmailLog\".\"id\", \"public\".\"EmailLog\".\"tenantId\", \"public\".\"EmailLog\".\"to\", \"public\".\"EmailLog\".\"subject\", \"public\".\"EmailLog\".\"body\", \"public\".\"EmailLog\".\"status\", \"public\".\"EmailLog\".\"provider\", \"public\".\"EmailLog\".\"errorMessage\", \"public\".\"EmailLog\".\"createdAt\", \"public\".\"EmailLog\".\"updatedAt\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 ORDER BY \"public\".\"EmailLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:00.419Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:23:00.419Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:00.420Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:00.421Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:00.421Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:00.422Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:23:00 +0000] \"GET /api/emails/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:23:00.424Z"}
+{"duration":"25ms","ip":"::1","level":"http","message":"GET /api/emails/logs?page=1&limit=10 304 - 25ms","method":"GET","status":304,"timestamp":"2025-09-28T03:23:00.425Z","url":"/api/emails/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:00.442Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:23:00.443Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:00.444Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:00.444Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:00.445Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:00.445Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"EmailLog\".\"id\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:23:00.450Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:00.451Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:00.452Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"EmailLog\".\"id\", \"public\".\"EmailLog\".\"tenantId\", \"public\".\"EmailLog\".\"to\", \"public\".\"EmailLog\".\"subject\", \"public\".\"EmailLog\".\"body\", \"public\".\"EmailLog\".\"status\", \"public\".\"EmailLog\".\"provider\", \"public\".\"EmailLog\".\"errorMessage\", \"public\".\"EmailLog\".\"createdAt\", \"public\".\"EmailLog\".\"updatedAt\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 ORDER BY \"public\".\"EmailLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:00.452Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:23:00.453Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:00.453Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:00.454Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:00.455Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:00.455Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:23:00 +0000] \"GET /api/emails/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:23:00.461Z"}
+{"duration":"29ms","ip":"::1","level":"http","message":"GET /api/emails/logs?page=1&limit=10 304 - 29ms","method":"GET","status":304,"timestamp":"2025-09-28T03:23:00.464Z","url":"/api/emails/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:03.550Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:23:03.551Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:03.551Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:03.552Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:03.553Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:03.553Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"SmsLog\".\"id\" FROM \"public\".\"SmsLog\" WHERE \"public\".\"SmsLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:23:03.565Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:03.566Z"}
+{"level":"debug","message":"Duration: 8ms","timestamp":"2025-09-28T03:23:03.566Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"SmsLog\".\"id\", \"public\".\"SmsLog\".\"tenantId\", \"public\".\"SmsLog\".\"phone\", \"public\".\"SmsLog\".\"message\", \"public\".\"SmsLog\".\"status\", \"public\".\"SmsLog\".\"provider\", \"public\".\"SmsLog\".\"errorMessage\", \"public\".\"SmsLog\".\"createdAt\", \"public\".\"SmsLog\".\"updatedAt\" FROM \"public\".\"SmsLog\" WHERE \"public\".\"SmsLog\".\"tenantId\" = $1 ORDER BY \"public\".\"SmsLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:03.567Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:23:03.568Z"}
+{"level":"debug","message":"Duration: 8ms","timestamp":"2025-09-28T03:23:03.568Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:03.569Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:03.569Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:03.570Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:23:03 +0000] \"GET /api/sms/logs?page=1&limit=10 HTTP/1.1\" 200 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:23:03.586Z"}
+{"duration":"46ms","ip":"::1","level":"http","message":"GET /api/sms/logs?page=1&limit=10 200 - 46ms","method":"GET","status":200,"timestamp":"2025-09-28T03:23:03.588Z","url":"/api/sms/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:03.599Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:23:03.600Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:03.600Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:03.601Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:03.602Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:03.602Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"SmsLog\".\"id\" FROM \"public\".\"SmsLog\" WHERE \"public\".\"SmsLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:23:03.607Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:03.608Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:03.608Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"SmsLog\".\"id\", \"public\".\"SmsLog\".\"tenantId\", \"public\".\"SmsLog\".\"phone\", \"public\".\"SmsLog\".\"message\", \"public\".\"SmsLog\".\"status\", \"public\".\"SmsLog\".\"provider\", \"public\".\"SmsLog\".\"errorMessage\", \"public\".\"SmsLog\".\"createdAt\", \"public\".\"SmsLog\".\"updatedAt\" FROM \"public\".\"SmsLog\" WHERE \"public\".\"SmsLog\".\"tenantId\" = $1 ORDER BY \"public\".\"SmsLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:03.609Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:23:03.610Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:03.610Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:03.611Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:03.611Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:03.612Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:23:03 +0000] \"GET /api/sms/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:23:03.616Z"}
+{"duration":"25ms","ip":"::1","level":"http","message":"GET /api/sms/logs?page=1&limit=10 304 - 25ms","method":"GET","status":304,"timestamp":"2025-09-28T03:23:03.618Z","url":"/api/sms/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:07.982Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:23:07.983Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:07.983Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:07.984Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:07.984Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:07.985Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"EmailLog\".\"id\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:23:07.988Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:07.989Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:07.989Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"EmailLog\".\"id\", \"public\".\"EmailLog\".\"tenantId\", \"public\".\"EmailLog\".\"to\", \"public\".\"EmailLog\".\"subject\", \"public\".\"EmailLog\".\"body\", \"public\".\"EmailLog\".\"status\", \"public\".\"EmailLog\".\"provider\", \"public\".\"EmailLog\".\"errorMessage\", \"public\".\"EmailLog\".\"createdAt\", \"public\".\"EmailLog\".\"updatedAt\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 ORDER BY \"public\".\"EmailLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:07.990Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:23:07.991Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:07.991Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:07.992Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:07.992Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:07.993Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:23:07 +0000] \"GET /api/emails/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:23:07.996Z"}
+{"duration":"20ms","ip":"::1","level":"http","message":"GET /api/emails/logs?page=1&limit=10 304 - 20ms","method":"GET","status":304,"timestamp":"2025-09-28T03:23:07.997Z","url":"/api/emails/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:08.013Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:23:08.014Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:08.014Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:08.015Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:08.015Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:08.016Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"EmailLog\".\"id\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:23:08.020Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:08.021Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:08.021Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"EmailLog\".\"id\", \"public\".\"EmailLog\".\"tenantId\", \"public\".\"EmailLog\".\"to\", \"public\".\"EmailLog\".\"subject\", \"public\".\"EmailLog\".\"body\", \"public\".\"EmailLog\".\"status\", \"public\".\"EmailLog\".\"provider\", \"public\".\"EmailLog\".\"errorMessage\", \"public\".\"EmailLog\".\"createdAt\", \"public\".\"EmailLog\".\"updatedAt\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 ORDER BY \"public\".\"EmailLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:08.022Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:23:08.023Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:08.024Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:08.024Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:08.025Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:08.025Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:23:08 +0000] \"GET /api/emails/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:23:08.028Z"}
+{"duration":"22ms","ip":"::1","level":"http","message":"GET /api/emails/logs?page=1&limit=10 304 - 22ms","method":"GET","status":304,"timestamp":"2025-09-28T03:23:08.029Z","url":"/api/emails/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-28T03:23:26.512Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-28T03:23:26.513Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:26.514Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:26.516Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:23:26.517Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:26.518Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:26.519Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:26.521Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:26.522Z"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-28T03:23:26.528Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-28T03:23:26.529Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:26.530Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"SmsLog\".\"id\" FROM \"public\".\"SmsLog\" WHERE \"public\".\"SmsLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:23:26.532Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:26.533Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:26.534Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"SmsLog\".\"id\", \"public\".\"SmsLog\".\"tenantId\", \"public\".\"SmsLog\".\"phone\", \"public\".\"SmsLog\".\"message\", \"public\".\"SmsLog\".\"status\", \"public\".\"SmsLog\".\"provider\", \"public\".\"SmsLog\".\"errorMessage\", \"public\".\"SmsLog\".\"createdAt\", \"public\".\"SmsLog\".\"updatedAt\" FROM \"public\".\"SmsLog\" WHERE \"public\".\"SmsLog\".\"tenantId\" = $1 ORDER BY \"public\".\"SmsLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:26.535Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:23:26.537Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:26.537Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:26.539Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:26.540Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:26.541Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:23:26 +0000] \"GET /api/sms/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:23:26.548Z"}
+{"duration":"47ms","ip":"::1","level":"http","message":"GET /api/sms/logs?page=1&limit=10 304 - 47ms","method":"GET","status":304,"timestamp":"2025-09-28T03:23:26.550Z","url":"/api/sms/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:26.571Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:23:26.572Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:26.573Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:26.576Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:26.577Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:26.578Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"SmsLog\".\"id\" FROM \"public\".\"SmsLog\" WHERE \"public\".\"SmsLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:23:26.585Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:26.586Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:26.587Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"SmsLog\".\"id\", \"public\".\"SmsLog\".\"tenantId\", \"public\".\"SmsLog\".\"phone\", \"public\".\"SmsLog\".\"message\", \"public\".\"SmsLog\".\"status\", \"public\".\"SmsLog\".\"provider\", \"public\".\"SmsLog\".\"errorMessage\", \"public\".\"SmsLog\".\"createdAt\", \"public\".\"SmsLog\".\"updatedAt\" FROM \"public\".\"SmsLog\" WHERE \"public\".\"SmsLog\".\"tenantId\" = $1 ORDER BY \"public\".\"SmsLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:26.588Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:23:26.590Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:26.591Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:26.592Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:26.594Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:26.595Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:23:26 +0000] \"GET /api/sms/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:23:26.600Z"}
+{"duration":"40ms","ip":"::1","level":"http","message":"GET /api/sms/logs?page=1&limit=10 304 - 40ms","method":"GET","status":304,"timestamp":"2025-09-28T03:23:26.601Z","url":"/api/sms/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:35.925Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:23:35.926Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:35.927Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:35.928Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:35.928Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:35.929Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"PushNotification\".\"id\" FROM \"public\".\"PushNotification\" WHERE \"public\".\"PushNotification\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:23:35.948Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:35.949Z"}
+{"level":"debug","message":"Duration: 11ms","timestamp":"2025-09-28T03:23:35.950Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"PushNotification\".\"id\", \"public\".\"PushNotification\".\"tenantId\", \"public\".\"PushNotification\".\"userId\", \"public\".\"PushNotification\".\"title\", \"public\".\"PushNotification\".\"message\", \"public\".\"PushNotification\".\"isRead\", \"public\".\"PushNotification\".\"priority\", \"public\".\"PushNotification\".\"createdAt\", \"public\".\"PushNotification\".\"updatedAt\" FROM \"public\".\"PushNotification\" WHERE \"public\".\"PushNotification\".\"tenantId\" = $1 ORDER BY \"public\".\"PushNotification\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:35.951Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:23:35.952Z"}
+{"level":"debug","message":"Duration: 11ms","timestamp":"2025-09-28T03:23:35.953Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:35.954Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:35.955Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:35.955Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE \"public\".\"User\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:35.957Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:35.958Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:35.958Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:23:35 +0000] \"GET /api/push/notifications?page=1&limit=10 HTTP/1.1\" 200 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:23:35.966Z"}
+{"duration":"50ms","ip":"::1","level":"http","message":"GET /api/push/notifications?page=1&limit=10 200 - 50ms","method":"GET","status":200,"timestamp":"2025-09-28T03:23:35.968Z","url":"/api/push/notifications?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:35.986Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:23:35.987Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:35.988Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:35.989Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:35.991Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:35.992Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"PushNotification\".\"id\" FROM \"public\".\"PushNotification\" WHERE \"public\".\"PushNotification\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:23:35.999Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:36.000Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:36.001Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"PushNotification\".\"id\", \"public\".\"PushNotification\".\"tenantId\", \"public\".\"PushNotification\".\"userId\", \"public\".\"PushNotification\".\"title\", \"public\".\"PushNotification\".\"message\", \"public\".\"PushNotification\".\"isRead\", \"public\".\"PushNotification\".\"priority\", \"public\".\"PushNotification\".\"createdAt\", \"public\".\"PushNotification\".\"updatedAt\" FROM \"public\".\"PushNotification\" WHERE \"public\".\"PushNotification\".\"tenantId\" = $1 ORDER BY \"public\".\"PushNotification\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:36.003Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:23:36.004Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:36.005Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:36.007Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:36.008Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:36.009Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE \"public\".\"User\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:36.010Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:36.011Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:36.012Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:23:36 +0000] \"GET /api/push/notifications?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:23:36.016Z"}
+{"duration":"38ms","ip":"::1","level":"http","message":"GET /api/push/notifications?page=1&limit=10 304 - 38ms","method":"GET","status":304,"timestamp":"2025-09-28T03:23:36.017Z","url":"/api/push/notifications?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-28T03:23:52.057Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-28T03:23:52.058Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:52.059Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:52.060Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:23:52.061Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:52.062Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:52.063Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:52.064Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:52.064Z"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-28T03:23:52.072Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-28T03:23:52.073Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:52.074Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"Comment\".\"id\" FROM \"public\".\"Comment\" WHERE \"public\".\"Comment\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:23:52.084Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:52.085Z"}
+{"level":"debug","message":"Duration: 12ms","timestamp":"2025-09-28T03:23:52.086Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Comment\".\"id\", \"public\".\"Comment\".\"tenantId\", \"public\".\"Comment\".\"userId\", \"public\".\"Comment\".\"content\", \"public\".\"Comment\".\"createdAt\", \"public\".\"Comment\".\"updatedAt\", COALESCE(\"aggr_selection_0_Reply\".\"_aggr_count_replies\", 0) AS \"_aggr_count_replies\" FROM \"public\".\"Comment\" LEFT JOIN (SELECT \"public\".\"Reply\".\"commentId\", COUNT(*) AS \"_aggr_count_replies\" FROM \"public\".\"Reply\" WHERE 1=1 GROUP BY \"public\".\"Reply\".\"commentId\") AS \"aggr_selection_0_Reply\" ON (\"public\".\"Comment\".\"id\" = \"aggr_selection_0_Reply\".\"commentId\") WHERE \"public\".\"Comment\".\"tenantId\" = $1 ORDER BY \"public\".\"Comment\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:52.094Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:23:52.096Z"}
+{"level":"debug","message":"Duration: 18ms","timestamp":"2025-09-28T03:23:52.097Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE \"public\".\"User\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:52.098Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:52.099Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:52.100Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:52.101Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:52.102Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:52.103Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Reply\".\"id\", \"public\".\"Reply\".\"tenantId\", \"public\".\"Reply\".\"commentId\", \"public\".\"Reply\".\"userId\", \"public\".\"Reply\".\"content\", \"public\".\"Reply\".\"createdAt\", \"public\".\"Reply\".\"updatedAt\" FROM \"public\".\"Reply\" WHERE \"public\".\"Reply\".\"commentId\" IN ($1,$2) ORDER BY \"public\".\"Reply\".\"createdAt\" ASC OFFSET $3","timestamp":"2025-09-28T03:23:52.104Z"}
+{"level":"debug","message":"Params: [2,1,0]","timestamp":"2025-09-28T03:23:52.105Z"}
+{"level":"debug","message":"Duration: 2ms","timestamp":"2025-09-28T03:23:52.105Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:23:52 +0000] \"GET /api/comments?page=1&limit=10 HTTP/1.1\" 200 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:23:52.112Z"}
+{"duration":"62ms","ip":"::1","level":"http","message":"GET /api/comments?page=1&limit=10 200 - 62ms","method":"GET","status":200,"timestamp":"2025-09-28T03:23:52.114Z","url":"/api/comments?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:52.131Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:23:52.132Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:52.133Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:52.133Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:52.134Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:52.135Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"Comment\".\"id\" FROM \"public\".\"Comment\" WHERE \"public\".\"Comment\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:23:52.142Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:52.143Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:23:52.144Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Comment\".\"id\", \"public\".\"Comment\".\"tenantId\", \"public\".\"Comment\".\"userId\", \"public\".\"Comment\".\"content\", \"public\".\"Comment\".\"createdAt\", \"public\".\"Comment\".\"updatedAt\", COALESCE(\"aggr_selection_0_Reply\".\"_aggr_count_replies\", 0) AS \"_aggr_count_replies\" FROM \"public\".\"Comment\" LEFT JOIN (SELECT \"public\".\"Reply\".\"commentId\", COUNT(*) AS \"_aggr_count_replies\" FROM \"public\".\"Reply\" WHERE 1=1 GROUP BY \"public\".\"Reply\".\"commentId\") AS \"aggr_selection_0_Reply\" ON (\"public\".\"Comment\".\"id\" = \"aggr_selection_0_Reply\".\"commentId\") WHERE \"public\".\"Comment\".\"tenantId\" = $1 ORDER BY \"public\".\"Comment\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:23:52.151Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:23:52.153Z"}
+{"level":"debug","message":"Duration: 9ms","timestamp":"2025-09-28T03:23:52.154Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE \"public\".\"User\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:52.156Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:52.157Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:52.158Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:23:52.159Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:23:52.161Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:23:52.161Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Reply\".\"id\", \"public\".\"Reply\".\"tenantId\", \"public\".\"Reply\".\"commentId\", \"public\".\"Reply\".\"userId\", \"public\".\"Reply\".\"content\", \"public\".\"Reply\".\"createdAt\", \"public\".\"Reply\".\"updatedAt\" FROM \"public\".\"Reply\" WHERE \"public\".\"Reply\".\"commentId\" IN ($1,$2) ORDER BY \"public\".\"Reply\".\"createdAt\" ASC OFFSET $3","timestamp":"2025-09-28T03:23:52.162Z"}
+{"level":"debug","message":"Params: [2,1,0]","timestamp":"2025-09-28T03:23:52.163Z"}
+{"level":"debug","message":"Duration: 2ms","timestamp":"2025-09-28T03:23:52.164Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:23:52 +0000] \"GET /api/comments?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:23:52.168Z"}
+{"duration":"46ms","ip":"::1","level":"http","message":"GET /api/comments?page=1&limit=10 304 - 46ms","method":"GET","status":304,"timestamp":"2025-09-28T03:23:52.169Z","url":"/api/comments?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-28T03:24:27.413Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-28T03:24:27.414Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:27.415Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:24:27.417Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:24:27.418Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:24:27.419Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:27.420Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:27.421Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:27.423Z"}
+{"level":"debug","message":"Query: SELECT 1","timestamp":"2025-09-28T03:24:27.429Z"}
+{"level":"debug","message":"Params: []","timestamp":"2025-09-28T03:24:27.430Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:27.432Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"EmailLog\".\"id\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:24:27.433Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:27.434Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:27.435Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"EmailLog\".\"id\", \"public\".\"EmailLog\".\"tenantId\", \"public\".\"EmailLog\".\"to\", \"public\".\"EmailLog\".\"subject\", \"public\".\"EmailLog\".\"body\", \"public\".\"EmailLog\".\"status\", \"public\".\"EmailLog\".\"provider\", \"public\".\"EmailLog\".\"errorMessage\", \"public\".\"EmailLog\".\"createdAt\", \"public\".\"EmailLog\".\"updatedAt\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 ORDER BY \"public\".\"EmailLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:24:27.436Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:24:27.437Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:24:27.438Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:27.439Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:27.440Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:27.441Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:24:27 +0000] \"GET /api/emails/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:24:27.445Z"}
+{"duration":"39ms","ip":"::1","level":"http","message":"GET /api/emails/logs?page=1&limit=10 304 - 39ms","method":"GET","status":304,"timestamp":"2025-09-28T03:24:27.446Z","url":"/api/emails/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:24:27.465Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:24:27.466Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:27.467Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:27.468Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:27.469Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:27.470Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"EmailLog\".\"id\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:24:27.476Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:27.477Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:24:27.478Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"EmailLog\".\"id\", \"public\".\"EmailLog\".\"tenantId\", \"public\".\"EmailLog\".\"to\", \"public\".\"EmailLog\".\"subject\", \"public\".\"EmailLog\".\"body\", \"public\".\"EmailLog\".\"status\", \"public\".\"EmailLog\".\"provider\", \"public\".\"EmailLog\".\"errorMessage\", \"public\".\"EmailLog\".\"createdAt\", \"public\".\"EmailLog\".\"updatedAt\" FROM \"public\".\"EmailLog\" WHERE \"public\".\"EmailLog\".\"tenantId\" = $1 ORDER BY \"public\".\"EmailLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:24:27.479Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:24:27.481Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:24:27.482Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:27.483Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:27.484Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:27.485Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:24:27 +0000] \"GET /api/emails/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:24:27.490Z"}
+{"duration":"33ms","ip":"::1","level":"http","message":"GET /api/emails/logs?page=1&limit=10 304 - 33ms","method":"GET","status":304,"timestamp":"2025-09-28T03:24:27.491Z","url":"/api/emails/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:24:28.960Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:24:28.962Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:24:28.962Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:28.963Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:28.964Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:28.965Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"SmsLog\".\"id\" FROM \"public\".\"SmsLog\" WHERE \"public\".\"SmsLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:24:28.971Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:28.972Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:24:28.973Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"SmsLog\".\"id\", \"public\".\"SmsLog\".\"tenantId\", \"public\".\"SmsLog\".\"phone\", \"public\".\"SmsLog\".\"message\", \"public\".\"SmsLog\".\"status\", \"public\".\"SmsLog\".\"provider\", \"public\".\"SmsLog\".\"errorMessage\", \"public\".\"SmsLog\".\"createdAt\", \"public\".\"SmsLog\".\"updatedAt\" FROM \"public\".\"SmsLog\" WHERE \"public\".\"SmsLog\".\"tenantId\" = $1 ORDER BY \"public\".\"SmsLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:24:28.974Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:24:28.975Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:24:28.976Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:28.977Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:28.978Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:28.979Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:24:28 +0000] \"GET /api/sms/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:24:28.983Z"}
+{"duration":"32ms","ip":"::1","level":"http","message":"GET /api/sms/logs?page=1&limit=10 304 - 32ms","method":"GET","status":304,"timestamp":"2025-09-28T03:24:28.985Z","url":"/api/sms/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:24:29.004Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:24:29.005Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:24:29.006Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:29.007Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:29.009Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:29.010Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"SmsLog\".\"id\" FROM \"public\".\"SmsLog\" WHERE \"public\".\"SmsLog\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:24:29.015Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:29.017Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:24:29.018Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"SmsLog\".\"id\", \"public\".\"SmsLog\".\"tenantId\", \"public\".\"SmsLog\".\"phone\", \"public\".\"SmsLog\".\"message\", \"public\".\"SmsLog\".\"status\", \"public\".\"SmsLog\".\"provider\", \"public\".\"SmsLog\".\"errorMessage\", \"public\".\"SmsLog\".\"createdAt\", \"public\".\"SmsLog\".\"updatedAt\" FROM \"public\".\"SmsLog\" WHERE \"public\".\"SmsLog\".\"tenantId\" = $1 ORDER BY \"public\".\"SmsLog\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:24:29.019Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:24:29.020Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:29.021Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:29.022Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:29.023Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:29.024Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:24:29 +0000] \"GET /api/sms/logs?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:24:29.027Z"}
+{"duration":"33ms","ip":"::1","level":"http","message":"GET /api/sms/logs?page=1&limit=10 304 - 33ms","method":"GET","status":304,"timestamp":"2025-09-28T03:24:29.028Z","url":"/api/sms/logs?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:24:30.215Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:24:30.216Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:24:30.217Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:30.218Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:30.219Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:30.220Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"PushNotification\".\"id\" FROM \"public\".\"PushNotification\" WHERE \"public\".\"PushNotification\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:24:30.224Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:30.226Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:24:30.227Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"PushNotification\".\"id\", \"public\".\"PushNotification\".\"tenantId\", \"public\".\"PushNotification\".\"userId\", \"public\".\"PushNotification\".\"title\", \"public\".\"PushNotification\".\"message\", \"public\".\"PushNotification\".\"isRead\", \"public\".\"PushNotification\".\"priority\", \"public\".\"PushNotification\".\"createdAt\", \"public\".\"PushNotification\".\"updatedAt\" FROM \"public\".\"PushNotification\" WHERE \"public\".\"PushNotification\".\"tenantId\" = $1 ORDER BY \"public\".\"PushNotification\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:24:30.228Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:24:30.229Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:30.230Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:30.231Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:30.233Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:30.234Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE \"public\".\"User\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:30.236Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:30.237Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:30.237Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:24:30 +0000] \"GET /api/push/notifications?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:24:30.242Z"}
+{"duration":"36ms","ip":"::1","level":"http","message":"GET /api/push/notifications?page=1&limit=10 304 - 36ms","method":"GET","status":304,"timestamp":"2025-09-28T03:24:30.243Z","url":"/api/push/notifications?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE (\"public\".\"User\".\"id\" = $1 AND 1=1) LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:24:30.262Z"}
+{"level":"debug","message":"Params: [1,1,0]","timestamp":"2025-09-28T03:24:30.264Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:30.266Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:30.268Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:30.269Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:30.270Z"}
+{"level":"debug","message":"Query: SELECT COUNT(*) AS \"_count$_all\" FROM (SELECT \"public\".\"PushNotification\".\"id\" FROM \"public\".\"PushNotification\" WHERE \"public\".\"PushNotification\".\"tenantId\" = $1 OFFSET $2) AS \"sub\"","timestamp":"2025-09-28T03:24:30.277Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:30.279Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:24:30.280Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"PushNotification\".\"id\", \"public\".\"PushNotification\".\"tenantId\", \"public\".\"PushNotification\".\"userId\", \"public\".\"PushNotification\".\"title\", \"public\".\"PushNotification\".\"message\", \"public\".\"PushNotification\".\"isRead\", \"public\".\"PushNotification\".\"priority\", \"public\".\"PushNotification\".\"createdAt\", \"public\".\"PushNotification\".\"updatedAt\" FROM \"public\".\"PushNotification\" WHERE \"public\".\"PushNotification\".\"tenantId\" = $1 ORDER BY \"public\".\"PushNotification\".\"createdAt\" DESC LIMIT $2 OFFSET $3","timestamp":"2025-09-28T03:24:30.282Z"}
+{"level":"debug","message":"Params: [1,10,0]","timestamp":"2025-09-28T03:24:30.283Z"}
+{"level":"debug","message":"Duration: 2ms","timestamp":"2025-09-28T03:24:30.284Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"Tenant\".\"id\", \"public\".\"Tenant\".\"name\", \"public\".\"Tenant\".\"domain\", \"public\".\"Tenant\".\"createdAt\", \"public\".\"Tenant\".\"updatedAt\" FROM \"public\".\"Tenant\" WHERE \"public\".\"Tenant\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:30.285Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:30.286Z"}
+{"level":"debug","message":"Duration: 0ms","timestamp":"2025-09-28T03:24:30.287Z"}
+{"level":"debug","message":"Query: SELECT \"public\".\"User\".\"id\", \"public\".\"User\".\"tenantId\", \"public\".\"User\".\"email\", \"public\".\"User\".\"name\", \"public\".\"User\".\"role\", \"public\".\"User\".\"createdAt\", \"public\".\"User\".\"updatedAt\" FROM \"public\".\"User\" WHERE \"public\".\"User\".\"id\" IN ($1) OFFSET $2","timestamp":"2025-09-28T03:24:30.288Z"}
+{"level":"debug","message":"Params: [1,0]","timestamp":"2025-09-28T03:24:30.289Z"}
+{"level":"debug","message":"Duration: 1ms","timestamp":"2025-09-28T03:24:30.290Z"}
+{"level":"http","message":"::1 - - [28/Sep/2025:03:24:30 +0000] \"GET /api/push/notifications?page=1&limit=10 HTTP/1.1\" 304 - \"http://localhost:5173/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","timestamp":"2025-09-28T03:24:30.294Z"}
+{"duration":"40ms","ip":"::1","level":"http","message":"GET /api/push/notifications?page=1&limit=10 304 - 40ms","method":"GET","status":304,"timestamp":"2025-09-28T03:24:30.295Z","url":"/api/push/notifications?page=1&limit=10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
